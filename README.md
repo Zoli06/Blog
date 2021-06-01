@@ -1,2 +1,2 @@
 # Blog
-I made this simple website when I learned at Codeberry
+I made this simple website a year ago when I learned at Codeberry
